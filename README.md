@@ -13,12 +13,12 @@ Ensure you have the following installed on your system:
 - Python 3.8 or higher
 - Libraries: `opencv-python`, `opencv-contrib-python`, `imutils`, `numpy`
 
-Install the required Python libraries using:
+## Install the required Python libraries using:
 ```bash
 pip install opencv-python opencv-contrib-python imutils numpy
-Usage
+## Usage
 Place input images in the Input/ folder. Ensure the images have overlapping regions for better stitching results.
-Run the script:
+## Run the script:
 bash
 Copy code
 python main.py
